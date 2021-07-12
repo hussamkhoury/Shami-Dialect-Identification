@@ -1,5 +1,5 @@
 # Shami-Dialect-Identification
-Classification of four dialect language (Syrian - Palestinian - Lebanese - Jordinian).
+Classification of four Levantine Arabic Dialects (Syrian - Palestinian - Lebanese - Jordinian).
 Data used in this project: [1]
 ReadFile.py is used to process the text implementing [1] way of processing.
 
